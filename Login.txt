@@ -6,4 +6,8 @@ password 2-98765
 
 Url-WWW.Facebook.com
 
+URL-www.Insta.com
+
+URL-www.Youtube.com
+
 
